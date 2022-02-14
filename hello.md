@@ -20,3 +20,8 @@
 
 - Head branch에 변경사항이 없고 병합 대상 branch가 head로부터 시작된 경우
 - 아주 쉽게 병합 가능 = fast-forward
+
+## 병합하기 2
+
+- Head branch에 추가적인 commit이 생기는 경우 병합이 필요해진다.
+- 충돌이 난다.
